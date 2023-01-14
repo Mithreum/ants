@@ -28,4 +28,23 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |6|Prince consort|<img src="./assets/AntMale-no-bg.png" alt="Prince consort" width="200px">|A male **alate** (winged) version of an ant. In the same for the other colonies' moment, usually, on a hot day after rain, it takes part in a "**nuptial flight**" when alate females mate with alate males from foreign colonies. After a female is far enough from her original colony, she produces pheromones to attract the males. But she does not mate with the first or nearest ones. She flies away from them as fast as possible to only mate with the fastest. After mating, the male dies not to be a burden for a colony. For some ant species, the male's inner genitals explode into the female's **spermatheca** and quickly die. <br/><br/>Some species' Queens from existing colonies can produce pheromones that attract foreign males. As the attracted males land near the nest, they are attacked by the nest's guards, and their wings get cut off and eaten. They are driven to the nest by the workers. Males produce pheromones communicating the purpose of intrusion. If the worker ants like the pheromones, they bring the bewinged male to the queen for mating. Otherwise, they kill and feed him to their larva.|
 |7|Queen|<img src="./assets/AntQueen.jpg" alt="Queen" width="200px">|If fed well, a larva can develop into a winged **princess ant** destined to leave the colony and hopefully find her own. After their virgin "**nuptial flight**" fertilized by a foreign male, a **princess ant** becomes a **founding queen**. She finds the right place for a new colony, usually far enough from the original colony for the original family to never find the offspring. She digs a hole and lays her first eggs. She feeds and takes care of the first larva all by herself. She even sacrifices her wings to feed them. But once they grow up, they become her first team and army. <br/><br/>The young queens have an extremely high failure rate. A very large ant colony can send millions of virgin queens during its lifetime. Assuming that the total number of ant colonies in the area remains constant, on average, only one of these queens succeeds. The rest are destroyed by predators (most notably other ants), environmental hazards, or failures in raising the first brood at various stages of the process. This strict selection ensures that the queen has to be both extremely fit and extremely lucky to pass on her genes to the next generation. <br/><br/>Successful queens live up to 20-30 years. After the Queen dies, the colony disintegrates. However, some ant species' princesses do not to start their colony but return home and help build a super colony. Such communities don't rely on the health of one Queen so much.|
 
+## 2. ANTs NFT Collcetion
+
+### 2.1 General Description
+
+### 2.2 NFT/SFT Attributes
+
+### 2.3 Rarity
+
+### 2.4 Image Assets
+
+#### &emsp;2.4.1 Ant Characters
+
+#### &emsp;2.4.2 Environment Features
+
+### 2.5 Rules of Minting
+
+### 2.6 Conditions for Burning
+
+
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
