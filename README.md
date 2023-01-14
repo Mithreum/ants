@@ -2,7 +2,7 @@
 
 ## 0. Introduction
 
-About 100 million years ago ants and wasps were one species which explains why the Founding Queens and prince consorts are big almost like wasps and have wings. However, something happened that forsed some wasp colonies to become more social than the others which meant that most citizens had to give up their individualizm for the benefit of the colony. For example, every worker ant is a female and can potentially lay eggs. But the colony prevents them from laying their own eggs but rather forces to support the **Queen** and her descendants.
+About 100 million years ago ants and wasps were one species which explains why the Founding Queens and Prince Consorts of Ants are almost as big as wasps and have wings at the beginning of their career. However, something happened that forsed some wasp colonies to become more social than the others which meant that most citizens had to give up their individualizm for the benefit of the colony. For example, every worker ant is a female and can potentially lay eggs. But the colony prevents them from laying their own eggs but rather forces to support the **Queen** and her descendants.
 
 The specialty of an individual ant depends on the level of care and nourishment the parents and the larva received. If the food was scarce - all the larva will grow into workers to get more food. If the food was abundant, some of the larva will turn into a "**princess ant**.""
 
@@ -18,6 +18,6 @@ Even though every ant is born from an egg, its speciality is reflected by its ph
 |4|Worker|<img src="./assets/PharaoAntWorker-no-bg.png" alt="Worker" width="200px">|When the pupae is fully grown and has begun to darken, it will wake up. For the first days of it’s life it will be lightly coloured and transparent in comparison to the other members of the ant colony. But after a few days it will darken and gain the same markings as it’s sisters. Most ant species let the new ants (also called nanitics) live their first time in safety, tending to the eggs, queen and other inside-duties of the colony. Then eventually they will look towards more dangerous tasks such as foraging or defending the nest. The closer one ant is to death (by age), the more economically motivated the colony is to risk it’s life.|
 |5|Soldier|<img src="./assets/LeafcutterSoldierAnt.jpg" alt="Soldier" width="200px">||
 |6|Male|<img src="./assets/AntMale-no-bg.png" alt="Male" width="200px">||
-|7|Queen|<img src="./assets/AntQueen.jpg" alt="Queen" width="200px">||
+|7|Queen|<img src="./assets/AntQueen.jpg" alt="Queen" width="200px">|If fed well a larva can develop into a winged **princess ant** destined to leave the colony and hopefully found her own.|
 
 [^1]: All the images of the ants were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed for illustration of the concepts for the NFT collection designers and will never be used for commercial purposes on their own.
