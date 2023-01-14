@@ -8,4 +8,4 @@
 |4|Worker|||
 |5|Soldier|||
 |6|Male|||
-|7|Queen|||
+|7|Queen|<img src="./assets/Ant-Queen.jpg" alt="Queen">||
