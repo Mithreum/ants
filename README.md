@@ -12,8 +12,8 @@ Even though every ant is born from an egg, its speciality is reflected by its ph
 |:-:|:-:|:-:|:-|
 |1|Egg|<img src="./assets/Egg.jpg" alt="Egg" width="200px">[^1]|An organic vessel for protecting and incubating a foetus. The egg almost does not interacting with the external environment. Its surface is sticky which allows carying multiple eggs by a worked ant at the times of danger.|
 |2|Larva|<img src="./assets/Larva.jpg" alt="Larva" width="200px">|A juvenile form of Ant during its metamorphosis from an egg to an adult. Unlike the egg, larva consumes food brough by the workers to fuel growth and transfomation. Larva produces liquid pheromones that workers eat and dry junk that workers throw away.|
-|3|Pupae|<img src="./assets/Pupae.jpg" alt="Pupae" width="200px">|Some ant spices's larva produces cocons|
-|4|Worker|||
+|3|Pupae|<img src="./assets/Pupae.jpg" alt="Pupae" width="200px">|Some ant spices's larva are cocoon-spinning. They wrap themselves in thin silk threads before becoming pupae. In other species, cocoons are not used during pupae. They are out in the open and their development can easily be observed. The pupae starts out white, as the larvae, but darkens over time. All pupae are positioned in a foetal position with lowered heads and bodies shaped much like a banana.|
+|4|Worker||When the pupae is fully grown and has begun to darken, it will wake up. For the first days of it’s life it will be lightly coloured and transparent in comparison to the other members of the ant colony. But after a few days it will darken and gain the same markings as it’s sisters. Most ant species let the new ants (also called nanitics) live their first time in safety, tending to the eggs, queen and other inside-duties of the colony. Then eventually they will look towards more dangerous tasks such as foraging or defending the nest. The closer one ant is to death (by age), the more economically motivated the colony is to risk it’s life.|
 |5|Soldier|<img src="./assets/LeafcutterSoldierAnt.jpg" alt="Soldier" width="200px">||
 |6|Male|||
 |7|Queen|<img src="./assets/AntQueen.jpg" alt="Queen" width="200px">||
