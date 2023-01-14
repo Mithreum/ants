@@ -15,7 +15,7 @@ Even though every ant is born from an egg, its speciality is reflected by its ph
 |3|Pupae|<img src="./assets/Pupae.jpg" alt="Pupae" width="200px">|Some ant spices's larva are cocoon-spinning. They wrap themselves in thin silk threads before becoming pupae. In other species, cocoons are not used during pupae. They are out in the open and their development can easily be observed. The pupae starts out white, as the larvae, but darkens over time. All pupae are positioned in a foetal position with lowered heads and bodies shaped much like a banana.|
 |4|Worker||When the pupae is fully grown and has begun to darken, it will wake up. For the first days of it’s life it will be lightly coloured and transparent in comparison to the other members of the ant colony. But after a few days it will darken and gain the same markings as it’s sisters. Most ant species let the new ants (also called nanitics) live their first time in safety, tending to the eggs, queen and other inside-duties of the colony. Then eventually they will look towards more dangerous tasks such as foraging or defending the nest. The closer one ant is to death (by age), the more economically motivated the colony is to risk it’s life.|
 |5|Soldier|<img src="./assets/LeafcutterSoldierAnt.jpg" alt="Soldier" width="200px">||
-|6|Male|||
+|6|Male|<img src="./assets/AntMale.jpg" alt="Male" width="200px">||
 |7|Queen|<img src="./assets/AntQueen.jpg" alt="Queen" width="200px">||
 
 [^1]: All the images of the ants were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed for illustration of the concepts for the NFT collection designers and will never be used for commercial purposes on their own.
