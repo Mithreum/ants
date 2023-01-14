@@ -14,7 +14,7 @@ Even though every ant is born from an egg, its speciality is reflected by its ph
 |2|Larva|<img src="./assets/Larva.jpg" alt="Larva" width="200px">|A juvenile form of Ant during its metamorphosis from an egg to an adult. Unlike the egg, larva consumes food brough by the workers to fuel growth and transfomation. Larva produces liquid pheromones that workers eat and dry junk that workers throw away.|
 |3|Pupae|<img src="./assets/Pupae.jpg" alt="Pupae" width="200px">|Some ant spices's larva produces cocons|
 |4|Worker|||
-|5|Soldier|||
+|5|Soldier|<img src="./assets/LeafcutterSoldierAnt.jpg" alt="Soldier" width="200px">||
 |6|Male|||
 |7|Queen|<img src="./assets/AntQueen.jpg" alt="Queen" width="200px">||
 
