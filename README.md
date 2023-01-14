@@ -2,12 +2,16 @@
 
 ## 0. Introduction
 
+### Ants are a form of wasps
 About 100 million years ago ants and wasps were one species which explains why the Founding Queens and Prince Consorts of Ants are almost as big as wasps and have wings at the beginning of their career. However, something happened that forsed some wasp colonies to become more social than the others which meant that most citizens had to give up their individualizm for the benefit of the colony. For example, every worker ant is a female and can potentially lay eggs. But the colony prevents them from laying their own eggs but rather forces to support the **Queen** and her descendants.
 
+### One egg - different specialties
 The specialty of an individual ant depends on the level of care and nourishment the parents and the larva received. If the food was scarce - all the larva will grow into workers to get more food. If the food was abundant, some of the larva will turn into a "**princess ant**."
 
+### Just like Amazonians
 Ants' societies very much resemble those of mythological Amazonian ones. The head of the state is a Queen. The colony only comprises females. Males from foreign settlements are used once for mating and then they either naturally die or get killed and eaten by the female warriors or workers.
 
+### Ants live in democracy 
 Ant queen resembles the Brittish Queen, who **reigns but does not rule**. There is no supreme commander in an Ant colony. Worker ants decide all the questions by **proposing** ideas and **voting** for them by the **majority**. Scout ants research the environment. After they find what they consider worthy, they mark it with pheromones and return to the colony's nets. There they share their impressions of the finding. Depending on their own satisfaction of the found they produce more or less intensive pheromones. If the level of pheromones is attractive to the other ants, they join the scouts and visit the found item too. They form their own impression and repeat the cycle. When the majority agrees that what was found is worth their attention all the colony arrives to a **consensus** about what to do with the found.
 
 ## 1. Colony roles & appearance
