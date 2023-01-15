@@ -31,8 +31,8 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 ## 2. ANTs NFT Collection
 
 ### Clans
-+ Amazons (Scythian style, Crimean Terrain)
-+ Spartan (Ancient Greek style, Mediterranean terrain)
++ [Amazons](./StyleExamples/Amazons) (Scythian style, Crimean Terrain)
++ [Spartan](./StyleExamples/Spartan) (Ancient Greek style, Mediterranean terrain)
 + Viking (Northern style, Scandinavian terrain)
 + Celtic (Boudicca style, Brittish terrain)
 + [Amazonian](./StyleExamples/Amazoneans) (Native South American style & terrain)
