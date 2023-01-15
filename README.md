@@ -33,8 +33,8 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 ### Clans
 + [Amazons](./StyleExamples/Amazons) (Scythian style, Crimean Terrain)
 + [Spartan](./StyleExamples/Spartan) (Ancient Greek style, Mediterranean terrain)
-+ Viking (Northern style, Scandinavian terrain)
-+ Celtic (Boudicca style, Brittish terrain)
++ [Viking](./StyleExamples/Viking) (Northern style, Scandinavian terrain)
++ [Celtic](./StyleExamples/Celtic) (Boudicca style, Brittish terrain)
 + [Amazonian](./StyleExamples/Amazoneans) (Native South American style & terrain)
 
 ### 2.1 General Description
