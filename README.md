@@ -109,4 +109,15 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |3|	Brown|	Brown|	Bandage|		
 |108|	3|	3|	3|	2|	2|	13|
 
+### Soldiers 750 x ⚔️
+
+|Permutations|	Dress|	Pants|	Hat|	Shoes|	Hair|	Eyes|	Holds|	Head Jewels|	Total Images 🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	Brown|	blue|	no hat|	red|	black|	blue|	sword|	Type1|	
+|2|	Green|	brown|	brown|	brown|	green|	|axe|	Type2|
+|3||||red|	brown|		||Type3|	
+|4||||||||Type4|	
+|5||||||||Type6|	
+|720|	2|1|	2|	2|	3|	3|	2|	5|	19|
+
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
