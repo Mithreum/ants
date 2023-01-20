@@ -109,7 +109,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |3|	Brown|	Brown|	Bandage|		
 |108|	3|	3|	3|	2|	2|	13|
 
-### [Soldiers](./StyleExamples/Scythians/Workers) 750 x ⚔️
+### [Soldiers](./StyleExamples/Scythians/Soldiers) 750 x ⚔️
 
 |Permutations|	Dress 👗 |	Pants 👖 |	Hat 👒 |	Shoes 👠 |	Hair 👧 |	Eyes 👀 |	Holds 🦯 |	Head Jewels 💎 |	Total Images 🖼️|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -126,7 +126,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1||red|||blond||sword & axe||19+3=22|
 
-### [Scouts](./StyleExamples/Scythians/Workers) 100 x 👀
+### [Scouts](./StyleExamples/Scythians/Soldiers) 100 x 👀
 
 |Permutations|	Dress 👗|	Armor 🛡️|	Plates (hair) 👧|	Jewelry 💎|	Total Images 🖼️|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -135,5 +135,17 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |3|	blue|	Leather|	Brown|	3|	
 |4||||4|
 |108|	3|	3|	3|	4|	13|
+
+### [Workers](./StyleExamples/Scythians/Workers) 3900 x 👩‍
+
+|Permutations|Dress 👗|	Pants 👖|	Jewelry 💎|	Shoes 👠|	Hair 👧|	Tatoos|	Total Images 🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	red|	red|	1|	red|	blond|	Left Hand||	
+|2|	green|	green|	2|	brown|	red|	Right hand||	
+|3|	brown|	brown|	3|	leather|	brown|	Both Hands|	
+|4|	yellow|	yellow|	4|				
+|5|	grey|	grey|	5	|			
+|6|	blue|	blue|	6	|			
+|5832|	6|	6|	6|	3|	3|	3|	27|
 
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
