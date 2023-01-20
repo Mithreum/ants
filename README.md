@@ -100,4 +100,13 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |3|		|Leather|	Brown|	Brown||		
 |108|	2|	3|	3|	3|	2|	13|
 
+### [Prince Consorts](./StyleExamples/Scythians/Princes) 100 x 🤴
+
+|Permutations|	Shirts 👕 |	Pants 👖 |	Hats 🎩 |	Holding 🦯 |	Boots 👢 |	Total Images  🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	Red|	Red|	None|	Sword|	Red|	
+|2|	Purple|	Purple|	Gilded|	Axe|	Brown|	
+|3|	Brown|	Brown|	Bandage|		
+|108|	3|	3|	3|	2|	2|	13|
+
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
