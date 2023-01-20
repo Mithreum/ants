@@ -56,22 +56,18 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 + Old Soldier - 5
 8. Kill terms: 3/1
 
-### 2.2 NFT/SFT Attributes
+### 2.2 NFT Features & Permutations
 
-+ NFTs: Princess (max 300), Prince (max 300), Queen (max 100), Land (max 100)
-+ SFTs: Eggs, Larvae, Pupae, Soldiers (Max 600), Worker (4,000)
+||Weight|Number|Total Weight|Permutations|	Elements|	Base Figures|	Total Images|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Nest	|64|	50|	3200|	50|	15|	1|	16|
+|Queen|	32|	100|	3200|	108|	13|	1|	14|
+|Prince|	16|	100|	1600|	108|	13|	1|	14|
+|Soldier|	8|	750|	6000|	750|	22|	1|	23|
+|Scout|	4|	100|	400|	108|	13|	1|	14|
+|Worker|	2|	3900|	7800|	3900|	27|	1|	28|
+|**TOTAL**|	|5000|	22200|5024|	103|	6|	109|
 
-### 2.3 Rarity
-
-### 2.4 Image Assets
-
-#### &emsp;2.4.1 Ant Characters
-
-#### &emsp;2.4.2 Environment Features
-
-### 2.5 Rules of Minting
-
-### 2.6 Conditions for Burning
 
 
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
