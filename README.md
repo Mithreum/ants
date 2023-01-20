@@ -126,4 +126,14 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1||red|||blond||sword & axe||19+3=22|
 
+### [Scouts](./StyleExamples/Scythians/Workers) 100 x 👀
+
+|Permutations|	Dress 👗|	Armor 🛡️|	Plates (hair) 👧|	Jewelry 💎|	Total Images 🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	green|	Golden|	Red|	1|
+|2|	yellow|	Iron|	Blond|	2|
+|3|	blue|	Leather|	Brown|	3|	
+|4||||4|
+|108|	3|	3|	3|	4|	13|
+
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
