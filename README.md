@@ -58,7 +58,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 
 ### 2.2 NFT Features & Permutations
 
-||Importance|Max Quantity|Total Weight|Permutations|	Elements 👑 |	Base Figures 🦸‍♀️ |	Total Images |
+||Importance|Max Quantity|Total Weight|Permutations|	Elements 👑 |	Base Characters 🦸‍♀️ |	Total Images 🖼️  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Nest 🪹 	|64|	50|	3200|	50|	15|	1|	16|
 |Queen 👸 |	32|	100|	3200|	108|	13|	1|	14|
@@ -90,5 +90,14 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |3|	distant|	10|	ant-bird 🦅 |	40%|
 |4|	remote|	20|	lizards/toads 🐸 |	30%|
 |5|	hard to get|	30|	ant-lion 🐞 |	10%|
+
+### Queens 100 x 👸
+
+|Permutations|	Dress 👗 |	Armor 🛡️ |	Plates (Hair) 👧 |	Eyes 👀 |	Crown 👑 |	Total Images 🖼️ |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	white|	Golden|	Red|	Green|	Diadema-1|
+|2|	red|	Iron|	Blond|	Blue|	Diadema-2|	
+|3|		|Leather|	Brown|	Brown||		
+|108|	2|	3|	3|	3|	2|	13|
 
 [^1]: The ants' images were taken by a professional photographer [Alexander Wild](https://www.alexanderwild.com/). The photographs were borrowed to illustrate the concepts for the NFT collection designers and will never be used for commercial purposes.
