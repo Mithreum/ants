@@ -91,7 +91,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |4|	remote|	20|	lizards/toads 🐸 |	30%|
 |5|	hard to get|	30|	ant-lion 🐞 |	10%|
 
-### Queens 100 x 👸
+### [Queens](https://github.com/DimaBrooks/ants/tree/main/StyleExamples/Scythians/Queen) 100 x 👸
 
 |Permutations|	Dress 👗 |	Armor 🛡️ |	Plates (Hair) 👧 |	Eyes 👀 |	Crown 👑 |	Total Images 🖼️ |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
