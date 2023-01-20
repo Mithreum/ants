@@ -58,15 +58,30 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 
 ### 2.2 NFT Features & Permutations
 
-||Weight|Number|Total Weight|Permutations|	Elements|	Base Figures|	Total Images|
+||Importance|Max Quantity|Total Weight|Permutations|	Elements 👑 |	Base Figures 🦸‍♀️ |	Total Images |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Nest	|64|	50|	3200|	50|	15|	1|	16|
-|Queen|	32|	100|	3200|	108|	13|	1|	14|
-|Prince|	16|	100|	1600|	108|	13|	1|	14|
-|Soldier|	8|	750|	6000|	750|	22|	1|	23|
-|Scout|	4|	100|	400|	108|	13|	1|	14|
-|Worker|	2|	3900|	7800|	3900|	27|	1|	28|
+|Nest 🪹 	|64|	50|	3200|	50|	15|	1|	16|
+|Queen 👸 |	32|	100|	3200|	108|	13|	1|	14|
+|Prince 🤴 |	16|	100|	1600|	108|	13|	1|	14|
+|Soldier ⚔️ |	8|	750|	6000|	750|	22|	1|	23|
+|Scout 👀 |	4|	100|	400|	108|	13|	1|	14|
+|Worker 👩‍🔧 |	2|	3900|	7800|	3900|	27|	1|	28|
 |**TOTAL**|	|5000|	22200|5024|	103|	6|	109|
+
+### Nests
+
+|Type |	Terrain 🏔️ |	Protection 🛡️ |	Supplies 🍱 |	Supported 🐜 |
+|:-:|:-:|:-:|:-:|:-:|
+|1|	meadow 🌺 |	10%|	Luxuriant|	250|
+|2|	beach 🏝️ |	10%|	Bountiful|	230|
+|3|	tree 🌲 |	20%|	Rich|	200|
+|4|	stub roots|	20%|	Generous|	170|
+|5|	sandstone|	40%|	Plenteous|	150|
+|6|	crushed stone|	50%|	Sufficient|	120|
+|7|	pumis-stone|	60%|	Insufficient|	100|
+|8|	porous 🪨|	80%|	Poor|	80|
+|9|	granite 🪨|	90%|	Needy|	65|
+|10|bazalt 🪨 |	100%|	Meager|	60|
 
 
 
