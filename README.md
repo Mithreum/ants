@@ -68,7 +68,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |Worker 👩‍🔧 |	2|	3900|	7800|	3900|	27|	1|	28|
 |**TOTAL**|	|5000|	22200|5024|	103|	6|	109|
 
-### Nests 50 x 🪹
+### [Nests](https://github.com/DimaBrooks/ants/tree/main/assets/Nests) 50 x 🪹
 
 |Type |	Terrain 🏔️ |	Protection 🛡️ |	Supplies 🍱 |	Supported 🐜 |
 |:-:|:-:|:-:|:-:|:-:|
