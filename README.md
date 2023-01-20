@@ -109,7 +109,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |3|	Brown|	Brown|	Bandage|		
 |108|	3|	3|	3|	2|	2|	13|
 
-### Soldiers 750 x ⚔️
+### [Soldiers](./StyleExamples/Scythians/Workers) 750 x ⚔️
 
 |Permutations|	Dress 👗 |	Pants 👖 |	Hat 👒 |	Shoes 👠 |	Hair 👧 |	Eyes 👀 |	Holds 🦯 |	Head Jewels 💎 |	Total Images 🖼️|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
