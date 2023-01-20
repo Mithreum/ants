@@ -31,7 +31,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 ## 2. ANTs NFT Collection
 
 ### Clans
-+ [Amazons](./StyleExamples/Amazons) (Scythian style, Crimean Terrain)
++ [Scythians](./StyleExamples/Scythians) (Scythian style, Crimean Terrain)
 + [Spartan](./StyleExamples/Spartan) (Ancient Greek style, Mediterranean terrain)
 + [Viking](./StyleExamples/Viking) (Northern style, Scandinavian terrain)
 + [Celtic](./StyleExamples/Celtic) (Boudicca style, Brittish terrain)
@@ -68,7 +68,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |Worker 👩‍🔧 |	2|	3900|	7800|	3900|	27|	1|	28|
 |**TOTAL**|	|5000|	22200|5024|	103|	6|	109|
 
-### [Nests](https://github.com/DimaBrooks/ants/tree/main/assets/Nests) 50 x 🪹
+### [Nests](./assets/Nests) 50 x 🪹
 
 |Type |	Terrain 🏔️ |	Protection 🛡️ |	Supplies 🍱 |	Supported 🐜 |
 |:-:|:-:|:-:|:-:|:-:|
@@ -91,7 +91,7 @@ Even though every ant is born from an egg, its specialty is reflected by its phy
 |4|	remote|	20|	lizards/toads 🐸 |	30%|
 |5|	hard to get|	30|	ant-lion 🐞 |	10%|
 
-### [Queens](https://github.com/DimaBrooks/ants/tree/main/StyleExamples/Scythians/Queen) 100 x 👸
+### [Queens](./StyleExamples/Scythians/Queen) 100 x 👸
 
 |Permutations|	Dress 👗 |	Armor 🛡️ |	Plates (Hair) 👧 |	Eyes 👀 |	Crown 👑 |	Total Images 🖼️ |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
