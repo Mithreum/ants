@@ -23,12 +23,12 @@ Only this clan should be done now:
 ||Importance|Max Quantity|Total Weight|Permutations|	Elements 👑 |	Base Characters 🦸‍♀️ |	Total Images 🖼️  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Nest 🪹 	|64|	50|	3200|	50|	15|	1|	16|
-|Queen 👸 |	32|	100|	3200|	108|	13|	1|	14|
-|Prince 🤴 |	16|	100|	1600|	108|	13|	1|	14|
-|Soldier ⚔️ |	8|	750|	6000|	750|	22|	1|	23|
-|Scout 👀 |	4|	100|	400|	108|	13|	1|	14|
+|Queen 👸 |	32|	100|	3200|	108|	6|	1|	7|
+|Prince 🤴 |	16|	100|	1600|	108|	8|	0|	8|
+|Soldier ⚔️ |	8|	750|	6000|	750|	11|	1|	11|
+|Scout 👀 |	4|	100|	400|	108|	7|	0|	7|
 |Worker 👩‍🔧 |	2|	3900|	7800|	3900|	27|	1|	28|
-|**TOTAL**|	|5000|	22200|5024|	103|	6|	109|
+|**TOTAL**|	|5000|	22200|5024|	72|	4|	76|
 
 ### [Nests](./assets/Nests) 50 x 🪹
 
@@ -60,7 +60,8 @@ Only this clan should be done now:
 |1|	white|	Golden|	Red|	Green|	Diadema-1|
 |2|	red|	Iron|	Blond|	Blue|	Diadema-2|	
 |3|		|Leather|	Brown|	Brown||		
-|108|	2|	3|	3|	3|	2|	13|
+|108|	2|	3|	3|	3|	2||
+|Scetches|	1|	1|	1|	1|	2|	6|
 
 ### [Prince Consorts](./StyleExamples/Scythians/Princes) 100 x 🤴
 
@@ -70,24 +71,27 @@ Only this clan should be done now:
 |2|	Purple|	Rich|	Gilded|	Axe|	
 |3|	Brown|Only moustache|	Bandage|Staff|
 |4| White| 
-|108|	4|	3|	3|	3|	13|
+|108|	4|	3|	3|	3|
+|Scetches|	1|	3|	1|	3|	8|
 
 ### [Soldiers](./StyleExamples/Scythians/Soldiers) 750 x ⚔️
 
-|Permutations|	Dress 👗 |	Pants 👖 |	Hat 👒 |	Shoes 👠 |	Hair 👧 |	Eyes 👀 |	Holds 🦯 |	Head Jewels 💎 |	Total Images 🖼️|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|	Brown|	blue|	no hat|	red|	black|	blue|	sword|	Type1|	
-|2|	Green|	brown|	brown|	brown|	green|	|axe|	Type2|
-|3||||red|	brown|		||Type3|	
-|4||||||||Type4|	
-|5||||||||Type6|	
-|720|	2|1|	2|	2|	3|	3|	2|	5|	19|
+|Permutations|	Dress 👗 |	Hat 👒  |	Hair 👧 |	Eyes 👀 |	Holds 🦯 |	Head Jewels 💎 |	Total Images 🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	Brown|no hat|	black|	blue|	sword|	Type1|	
+|2|	Green|	brown|	brown|	green|axe|	Type2|
+|3||Green|	Red|Brown||Type3|	
+|4||Yellow||||Type4|	
+|5||||||Type6|	
+|720|	2|	4|	3|	3|	2|	5||
+|Sketches|	1|	1|	1|	1|	2|	5|	9|
 
 #### Rare Soldier Types 30 x ⚔️
 
-|Rare|	Dress 👗 |	Pants 👖 |	Hat 👒 |	Shoes 👠 |	Hair 👧 |	Eyes 👀 |	Holds 🦯 |	Head Jewels 💎 |	Total Images 🖼️|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1||red|||blond||sword & axe||19+3=22|
+|Rare|	Dress 👗 |	Hat 👒 |	Hair 👧 |	Eyes 👀 |	Holds 🦯 |	Head Jewels 💎 |	Total Images 🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|red||blond||sword & axe||9+2=11|
+|Scetches|||||1||9+1=10|
 
 ### [Scouts](./StyleExamples/Scythians/Soldiers) 100 x 👀
 
@@ -97,7 +101,8 @@ Only this clan should be done now:
 |2|	yellow|	Iron|	Blond|	2|
 |3|	blue|	Leather|	Brown|	3|	
 |4||||4|
-|108|	3|	3|	3|	4|	13|
+|108|	3|	3|	3|	4|
+|Scetches|	1|	1|	1|	4|	7|
 
 ### [Workers](./StyleExamples/Scythians/Workers) 3900 x 👩‍
 
