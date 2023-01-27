@@ -2,7 +2,7 @@
 
 ## About Ants
 
-Read more here.
+[Read more here](https://github.com/Emmet-Finance/ants/blob/main/AboutAnts.md).
 
 ## 2. ANTs NFT Collection
 
