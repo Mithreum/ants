@@ -7,30 +7,14 @@
 ## 2. ANTs NFT Collection
 
 ### Clans
+Only this clan should be done now:
 + [Scythians](./StyleExamples/Scythians) (Scythian style, Crimean Terrain)
+
+<br/>Those are future projects:
 + [Spartan](./StyleExamples/Spartan) (Ancient Greek style, Mediterranean terrain)
 + [Viking](./StyleExamples/Viking) (Northern style, Scandinavian terrain)
 + [Celtic](./StyleExamples/Celtic) (Boudicca style, Brittish terrain)
 + [Amazonian](./StyleExamples/Amazoneans) (Native South American style & terrain)
-
-### 2.1 General Description
-
-1. Initially **Princesses** & **Prince Consorts** of different clans are sold in the Marketplace. Only species of the same clan can interbreed.
-2. Once mating occurs the **Prince Consort** dies and is replaced with a land siutable for a nest. The terrain varies depending on the clan.
-3. The princess must dig the primary tunnel and the first room, lay eggs and nourish them.
-4. The first generation are workers improving the nest and taking care of the supplies. Now the Queen's only role is to lay eggs.
-5. The second generation are worriors. The workers & the worriers can vote who will be born in the next generations and feed the larvae accordingly.
-6. Clans can go to war with other clans. They can pillage their nests, kill the workers, the warriors and the Queen, eat eggs & larvae.
-7. Power:
-+ Egg, Larvae - 0
-+ Prince - 0
-+ Princess - 1
-+ Young Worker - 1
-+ Old Worker - 2
-+ Queen - 2
-+ Young Soldier - 3
-+ Old Soldier - 5
-8. Kill terms: 3/1
 
 ### 2.2 NFT Features & Permutations
 
