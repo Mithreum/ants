@@ -6,6 +6,8 @@
 
 ## 2. ANTs NFT Collection
 
+Only the bust of the figure must be modelled at this stage.
+
 ### Clans
 Only this clan should be done now:
 + [Scythians](./StyleExamples/Scythians) (Scythian style, Crimean Terrain)
@@ -62,12 +64,13 @@ Only this clan should be done now:
 
 ### [Prince Consorts](./StyleExamples/Scythians/Princes) 100 x 🤴
 
-|Permutations|	Shirts 👕 |	Pants 👖 |	Hats 🎩 |	Holding 🦯 |	Boots 👢 |	Total Images  🖼️|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|	Red|	Red|	None|	Sword|	Red|	
-|2|	Purple|	Purple|	Gilded|	Axe|	Brown|	
-|3|	Brown|	Brown|	Bandage|		
-|108|	3|	3|	3|	2|	2|	13|
+|Permutations|	Shirts 👕 |	Beards 🧔  |	Hats 🎩 |	Holding 🦯  |	Total Images  🖼️|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|	Red|	Thin|	None|	Sword|	
+|2|	Purple|	Rich|	Gilded|	Axe|	
+|3|	Brown|Only moustache|	Bandage|Staff|
+|4| White| 
+|108|	4|	3|	3|	3|	13|
 
 ### [Soldiers](./StyleExamples/Scythians/Soldiers) 750 x ⚔️
 
