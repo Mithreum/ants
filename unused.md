@@ -1,3 +1,5 @@
+|Nest 🪹 	|64|	50|	3200|	50|	15|	1|	16|
+
 ### [Nests](./assets/Nests) 50 x 🪹
 
 |Type |	Terrain 🏔️ |	Protection 🛡️ |	Supplies 🍱 |	Supported 🐜 |
