@@ -24,13 +24,12 @@ Only this clan should be done now:
 
 ||Importance|Max Quantity|Total Weight|Permutations|	Elements 👑 |	Base Characters 🦸‍♀️ |	Total Images 🖼️  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Nest 🪹 	|64|	50|	3200|	50|	15|	1|	16|
 |Queen 👸 |	32|	100|	3200|	108|	6|	1|	7|
 |Prince 🤴 |	16|	100|	1600|	108|	8|	0|	8|
 |Soldier ⚔️ |	8|	750|	6000|	750|	11|	1|	11|
 |Scout 👀 |	4|	100|	400|	108|	7|	0|	7|
 |Worker 👩‍🔧 |	2|	3900|	7800|	3900|	17|	1|	18|
-|**TOTAL**|	|5000|	22200|5024|	62|	4|	66|
+|**TOTAL**|	|5000|	22200|5024|	47|	4|	51|
 
 ### [Queens](./StyleExamples/Scythians/Queen) 100 x 👸
 
