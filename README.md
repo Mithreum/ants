@@ -27,9 +27,9 @@ Only this clan should be done now:
 |Queen 👸 |	32|	100|	3200|	108|	6|	1|	7|
 |Prince 🤴 |	16|	100|	1600|	108|	8|	0|	8|
 |Soldier ⚔️ |	8|	750|	6000|	750|	11|	1|	11|
-|Scout 👀 |	4|	100|	400|	108|	7|	0|	7|
-|Worker 👩‍🔧 |	2|	3900|	7800|	3900|	17|	1|	18|
-|**TOTAL**|	|5000|	22200|5024|	47|	4|	51|
+|Scout 👀 |	4|	250|	400|	108|	7|	0|	7|
+|Worker 👩‍🔧 |	2|	3800|	7800|	3900|	17|	1|	18|
+|**TOTAL**|	|5000|	22200|5024|	47|	3|	50|
 
 ### [Queens](./StyleExamples/Scythians/Queen) 100 x 👸
 
@@ -78,8 +78,8 @@ Only this clan should be done now:
 |1|	green|	Golden|	Red|	1|
 |2|	yellow|	Iron|	Blond|	2|
 |3|	blue|	Leather|	Brown|	3|	
-|4||||4|
-|108|	3|	3|	3|	4|
+|4|brown|none|black|4|
+|256|	4|	4|	4|	4|
 |Sketches|	1|	1|	1|	4|	7|
 
 ### [Workers](./StyleExamples/Scythians/Workers) 3900 x 👩‍
