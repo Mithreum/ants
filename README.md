@@ -71,7 +71,7 @@ Only this clan should be done now:
 |1|red||blond||sword & axe||9+2=11|
 |Sketches|||||1||9+1=10|
 
-### [Scouts](./StyleExamples/Scythians/Soldiers) 100 x 👀
+### [Scouts](./StyleExamples/Scythians/Soldiers) 250 x 👀
 
 |Permutations|	Dress 👗|	Armor 🛡️|	Plates (hair) 👧|	Jewelry 💎|	Total Images 🖼️|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -82,7 +82,7 @@ Only this clan should be done now:
 |256|	4|	4|	4|	4|
 |Sketches|	1|	1|	1|	4|	7|
 
-### [Workers](./StyleExamples/Scythians/Workers) 3900 x 👩‍
+### [Workers](./StyleExamples/Scythians/Workers) 3800 x 👩‍
 
 |Permutations|Dress 👗|	Necklaces 💎|	Head Jewelry 💎|	Hair 👧|	Tatoos|	Total Images 🖼️|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
