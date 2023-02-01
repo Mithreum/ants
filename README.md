@@ -84,13 +84,13 @@ Only this clan should be done now:
 
 ### [Workers](./StyleExamples/Scythians/Workers) 3800 x 👩‍
 
-|Permutations|Dress 👗|	Necklaces 💎|	Head Jewelry 💎|	Hair 👧|	Tatoos|	Total Images 🖼️|
+|Permutations|Dress 👗|	Necklaces 💎|	Head Jewelry 💎|	Hair 👧|	Tools|	Total Images 🖼️|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|	red|	1|	1|	blond|	Left Hand||	
-|2|	green|	2|	2|	red|	Right hand||	
-|3|	brown|	3|	3|	brown|	Both Hands|	
-|4|	yellow|	4|	4| black|Chest|		
-|5|	grey|	5|	5	|			|Chest & Hands|
+|1|	red|	1|	1|	blond|	Pickaxe||	
+|2|	green|	2|	2|	red|	Axe||	
+|3|	brown|	3|	3|	brown|	Shovel|	
+|4|	yellow|	4|	4| black|Hammer|		
+|5|	grey|	5|	5	|			|Fork|
 |6|	blue|	6|	6	|			
 |4320|	6|	6|	6|	4|	5|
 |Sketches|	1|	6|	6|	1|	3|	17|
